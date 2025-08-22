@@ -36,12 +36,12 @@ int main(){
 
    printf("carta 1! \n");
    printf("Estado:%s \n", estado);
-   printf("Codigo da carta: %S \n", estado);
+   printf("Codigo da carta: %s \n", codigo);
    printf("Cidade: %s \n, cidade");
    printf("Habitantes: %d \n", populacao);
    printf("Area: %f \n", area);
    printf("Pib: %f \n", pib);
-   Printf("Pontos turisticos: %d \n", pontosturisticos);
+   printf("pontos turisticos: %d \n", pontosturisticos);
 
 
 
